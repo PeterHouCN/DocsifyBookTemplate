@@ -86,6 +86,12 @@ index.html
 
 
 
+## 自定义域名
+
+
+修改 CNAME 文件
+
+
 ## 参考
 
 https://github.com/Snipaste/feedback
