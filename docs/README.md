@@ -105,4 +105,7 @@ Snipaste
 
 https://docs.snipaste.com/
 
+DIYgod/RSSHub: 🍰 万物皆可 RSS
+https://github.com/DIYgod/RSSHub
+
 
